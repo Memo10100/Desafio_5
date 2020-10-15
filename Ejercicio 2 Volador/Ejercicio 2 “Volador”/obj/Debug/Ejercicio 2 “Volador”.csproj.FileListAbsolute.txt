@@ -1,0 +1,10 @@
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 “Volador”\Ejercicio 2 “Volador”\bin\Debug\Ejercicio 2 “Volador”.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 “Volador”\Ejercicio 2 “Volador”\bin\Debug\Ejercicio 2 “Volador”.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 “Volador”\Ejercicio 2 “Volador”\bin\Debug\Ejercicio 2 “Volador”.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 “Volador”\Ejercicio 2 “Volador”\obj\Debug\Ejercicio 2 “Volador”.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 “Volador”\Ejercicio 2 “Volador”\obj\Debug\Ejercicio 2 “Volador”.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 “Volador”\Ejercicio 2 “Volador”\obj\Debug\Ejercicio 2 “Volador”.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 “Volador”\Ejercicio 2 “Volador”\obj\Debug\Ejercicio 2 “Volador”.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 Volador\Ejercicio 2 “Volador”\bin\Debug\Ejercicio 2 “Volador”.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 Volador\Ejercicio 2 “Volador”\obj\Debug\Ejercicio 2 “Volador”.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 2 Volador\Ejercicio 2 “Volador”\obj\Debug\Ejercicio 2 “Volador”.pdb

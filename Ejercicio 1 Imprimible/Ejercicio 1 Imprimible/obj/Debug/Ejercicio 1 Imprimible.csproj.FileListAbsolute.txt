@@ -1,0 +1,7 @@
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 1 Imprimible\Ejercicio 1 Imprimible\bin\Debug\Ejercicio 1 Imprimible.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 1 Imprimible\Ejercicio 1 Imprimible\bin\Debug\Ejercicio 1 Imprimible.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 1 Imprimible\Ejercicio 1 Imprimible\bin\Debug\Ejercicio 1 Imprimible.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 1 Imprimible\Ejercicio 1 Imprimible\obj\Debug\Ejercicio 1 Imprimible.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 1 Imprimible\Ejercicio 1 Imprimible\obj\Debug\Ejercicio 1 Imprimible.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 1 Imprimible\Ejercicio 1 Imprimible\obj\Debug\Ejercicio 1 Imprimible.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Mañana 15 10 20\Ejercicio 1 Imprimible\Ejercicio 1 Imprimible\obj\Debug\Ejercicio 1 Imprimible.pdb
